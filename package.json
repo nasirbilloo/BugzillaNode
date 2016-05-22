@@ -1,6 +1,6 @@
 {
   "name": "bugzillanode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A consumer of Bugzilla's XML-RPC API using NodeJS",
   "main": "BugzillaAPI.js",
   "scripts": {
