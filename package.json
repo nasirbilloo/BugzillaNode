@@ -1,0 +1,29 @@
+{
+  "name": "bugzillanode",
+  "version": "0.0.1",
+  "description": "A consumer of Bugzilla's XML-RPC API using NodeJS",
+  "main": "BugzillaAPI.js",
+  "scripts": {
+    "test": "printMsg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasirbilloo/BugzillaNode.git"
+  },
+  "keywords": [
+    "Nasir",
+    "Billoo",
+    "Bugzilla",
+    "Bugzilla Node",
+    "Bugzilla API"
+  ],
+  "author": "Nasir Billoo <nasir.billoo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasirbilloo/BugzillaNode/issues"
+  },
+  "homepage": "https://github.com/nasirbilloo/BugzillaNode#readme",
+   "dependencies": {
+    "xmlrpc": "^1.3.x"
+  } 
+}
